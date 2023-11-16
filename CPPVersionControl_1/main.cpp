@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Main function" << endl;
+	//Print some text
+	cout << "Welcome!" << endl;
 }
