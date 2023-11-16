@@ -23,5 +23,8 @@
     <ClInclude Include="Feature.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="NewFeature.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
