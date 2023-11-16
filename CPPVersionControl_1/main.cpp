@@ -8,7 +8,7 @@ void greet()
 }
 
 void solution();
-
+void Solved();
 int main()
 {
 	greet();
