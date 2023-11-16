@@ -8,6 +8,7 @@ void greet()
 }
 
 void solution();
+void Conflict();
 
 int main()
 {
